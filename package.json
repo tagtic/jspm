@@ -10,9 +10,7 @@
 		"type": "git",
 		"url": "git+https://github.com/tagtic/jspm.git"
 	},
-	"directories": {
-		"lib": "src"
-	},
+	"files": ["src"],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
@@ -26,7 +24,6 @@
 			"deps": "jquery",
 			"exports": "$"
 		  }
-		},
-		"files": ["src"]
+		}
 	  }
 }
