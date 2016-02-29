@@ -20,7 +20,7 @@
 	"jspm": {
 		"main": "src/core",
 		"shim": {
-			"src/core": ["jquery", "FrDH/jQuery.mmenu"]
+			"src/core": ["components/jquery", "FrDH/jQuery.mmenu"]
 		},
 		"dependencies": {
 			"components/jquery": "^2.0.0",
