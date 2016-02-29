@@ -27,7 +27,7 @@
 		},
 		"dependencies": {
 			"jquery": "^2.0.0",
-			"github:FrDH/jQuery.mmenu": "^5.0.0"
+			"FrDH/jQuery.mmenu": "^5.0.0"
 		}
   }
 }
