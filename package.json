@@ -19,10 +19,13 @@
     "url": "https://github.com/tagtic/jspm/issues"
   },
   "homepage": "https://github.com/tagtic/jspm#readme",
-  "shim": {
-    "core": {
-      "deps": ["jquery"]      
+"jspm": {
+    "main": "src/core",
+    "shim": {
+      "src/core": {
+        "deps": "jquery",
+        "exports": "$"
+      }
     }
-  },
-  "deps": ["jquery"]
+  }
 }
