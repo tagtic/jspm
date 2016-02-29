@@ -23,8 +23,7 @@
 			"src/core": ["jquery", "jquery.mmenu"]
 		},
 		"dependencies": {
-			"jquery": "github:components/jquery@^2.0.0",
-			"jQuery": "github:components/jquery@^2.0.0",
+			"jquery": "github:components/jquery@^2.0.0",			
 			"jquery.mmenu": "github:FrDH/jQuery.mmenu@^5.0.0"
 		}
 	}
