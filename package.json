@@ -23,8 +23,8 @@
 			"src/core": ["components/jquery", "FrDH/jQuery.mmenu"]
 		},
 		"dependencies": {
-			"query": "github:components/jquery^2.0.0",
-			"FrDH/jQuery.mmenu": "github:FrDH/jQuery.mmenu^5.0.0"
+			"query": "github:components/jquery@^2.0.0",
+			"FrDH/jQuery.mmenu": "github:FrDH/jQuery.mmenu@^5.0.0"
 		},
 		"map": {
 			"jquery": "github:components/jquery"
