@@ -20,9 +20,9 @@
 	},
 	"homepage": "https://github.com/tagtic/jspm#readme",
 	"jspm": {
-		"main": "src/core",
+		"main": "core",
 		"shim": {
-		  "src/core": {
+		  "core": {
 			"deps": "jquery",
 			"exports": "$"
 		  }
