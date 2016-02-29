@@ -20,17 +20,11 @@
 	"jspm": {
 		"main": "src/core",
 		"shim": {
-			"src/core": ["components/jquery", "FrDH/jQuery.mmenu"]
+			"src/core": ["jquery", "jquery.mmenu"]
 		},
 		"dependencies": {
-			"query": "github:components/jquery@^2.0.0",
-			"FrDH/jQuery.mmenu": "github:FrDH/jQuery.mmenu@^5.0.0"
-		},
-		"map": {
-			"jquery": "github:components/jquery"
+			"jquery": "github:components/jquery@^2.0.0",
+			"jquery.mmenu": "github:FrDH/jQuery.mmenu@^5.0.0"
 		}
-	},
-	"map": {
-		"jquery": "github:components/jquery"
 	}
 }
