@@ -1,0 +1,19 @@
+{
+  "name": "tagtic-ui-libs",
+  "version": "0.0.1",
+  "description": "TagTIC UI libraries",
+  "main": "./src/core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tagtic/jspm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tagtic/jspm/issues"
+  },
+  "homepage": "https://github.com/tagtic/jspm#readme"
+}
