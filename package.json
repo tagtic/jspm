@@ -17,9 +17,6 @@
 		"url": "https://github.com/tagtic/jspm/issues"
 	},
 	"homepage": "https://github.com/tagtic/jspm#readme",
-	"dependencies": {
-		"jquery": "^2.0.0"
-	},
 	"jspm": {
 		"main": "src/core",
 		"shim": {
