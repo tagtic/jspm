@@ -20,10 +20,7 @@
 	"jspm": {
 		"main": "src/core",
 		"shim": {
-		  "src/core": {
-			"deps": "jquery",
-			"exports": "$"
-		  }
+			"src/core": ["jquery", "jQuery.mmenu"]
 		},
 		"dependencies": {
 			"jquery": "^2.0.0",
