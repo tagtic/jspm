@@ -29,5 +29,8 @@
 		"map": {
 			"jquery": "./components/jquery"
 		}
-  }
+	},
+	"map": {
+		"jquery": "./components/jquery"
+	}
 }
