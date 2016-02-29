@@ -27,7 +27,7 @@
 			"FrDH/jQuery.mmenu": "^5.0.0"
 		},
 		"map": {
-			"tagticui": "."
+			"jquery": "./components/jquery"
 		}
   }
 }
