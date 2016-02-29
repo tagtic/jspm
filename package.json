@@ -26,7 +26,8 @@
 		  }
 		},
 		"dependencies": {
-			"jquery": "^2.0.0"
+			"jquery": "^2.0.0",
+			"jQuery.mmenu": "^5.0.0"
 		}
 	  }
 }
