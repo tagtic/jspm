@@ -23,8 +23,11 @@
 			"src/core": ["jquery", "FrDH/jQuery.mmenu"]
 		},
 		"dependencies": {
-			"jquery": "^2.0.0",
+			"components/jquery": "^2.0.0",
 			"FrDH/jQuery.mmenu": "^5.0.0"
+		},
+		"map": {
+			"tagticui": "."
 		}
   }
 }
