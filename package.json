@@ -27,10 +27,10 @@
 			"FrDH/jQuery.mmenu": "^5.0.0"
 		},
 		"map": {
-			"jquery": "./components/jquery"
+			"jquery": "github:components/jquery"
 		}
 	},
 	"map": {
-		"jquery": "./components/jquery"
+		"jquery": "github:components/jquery"
 	}
 }
